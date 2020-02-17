@@ -9,4 +9,5 @@ public interface Bag<T> extends Iterable<T> {
     boolean contains(T t);
 
     int size();
+
 }
